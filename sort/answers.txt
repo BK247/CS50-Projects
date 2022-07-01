@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Faster than sort 3 with an ordered list.
+
+sort2 uses: Merge sort
+
+How do you know?: On sorting through the random 50,000, it takes significantly less time.
+
+sort3 uses: Selection Sort
+
+How do you know?: Bubble sort only has to swap if they're not in order. In an ordered list, bubble will be fast than selection, as selection still has to pass over each time.
